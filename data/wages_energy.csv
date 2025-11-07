@@ -1,0 +1,7 @@
+parameter,value
+prep_wage_usd_per_hour,4
+oven_wage_usd_per_hour,5
+pack_wage_usd_per_hour,3.5
+oven_rental_usd_per_hour,3
+oven_cost_usd_per_hour,1.4
+budget_usd,4000

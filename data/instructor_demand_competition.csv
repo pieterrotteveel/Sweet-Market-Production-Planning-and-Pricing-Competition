@@ -1,0 +1,31 @@
+ID,cake_name,channel,alpha,beta
+1,Triple Chocolate Layer Cake,Local,85.979,2.7285
+1,Triple Chocolate Layer Cake,Supermarket,144.177,8.9085
+1,Triple Chocolate Layer Cake,Online,95.752,3.807
+2,Victoria Sponge,Local,86.389,2.6136
+2,Victoria Sponge,Supermarket,147.934,10.4716
+2,Victoria Sponge,Online,117.697,4.7945
+3,Red Velvet Cake,Local,56.97,1.7912
+3,Red Velvet Cake,Supermarket,99.095,6.1861
+3,Red Velvet Cake,Online,70.909,3.3195
+4,Lemon Drizzle Cake,Local,65.107,1.9012
+4,Lemon Drizzle Cake,Supermarket,139.362,9.0421
+4,Lemon Drizzle Cake,Online,93.507,4.1096
+5,New York Style Cheesecake,Local,82.249,2.7534
+5,New York Style Cheesecake,Supermarket,149.738,10.9391
+5,New York Style Cheesecake,Online,103.924,5.1069
+6,Flourless Chocolate Cake,Local,54.815,1.6328
+6,Flourless Chocolate Cake,Supermarket,100.662,7.0461
+6,Flourless Chocolate Cake,Online,69.983,3.0861
+7,Banana Cake,Local,51.942,1.4748
+7,Banana Cake,Supermarket,96.747,7.3215
+7,Banana Cake,Online,67.326,2.9614
+8,Old-Fashioned Marble Cake,Local,66.584,2.2837
+8,Old-Fashioned Marble Cake,Supermarket,113.09,7.284
+8,Old-Fashioned Marble Cake,Online,76.403,3.7052
+9,Coconut Cake,Local,55.814,1.8521
+9,Coconut Cake,Supermarket,123.144,8.1423
+9,Coconut Cake,Online,88.151,4.0088
+10,Coffee & Walnut Cake,Local,60.617,2.142
+10,Coffee & Walnut Cake,Supermarket,106.115,7.4595
+10,Coffee & Walnut Cake,Online,82.183,3.5228

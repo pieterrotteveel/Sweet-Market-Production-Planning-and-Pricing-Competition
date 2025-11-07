@@ -1,0 +1,4 @@
+channel,transport_cost_per_unit_usd,service_cap_per_week
+Local,0.2,2000
+Supermarket,0.4,1600
+Online,0.6,1200

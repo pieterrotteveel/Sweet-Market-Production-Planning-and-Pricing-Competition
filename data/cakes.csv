@@ -1,0 +1,11 @@
+cake_id,name,batch_size_units,oven_min_per_batch,prep_min_per_unit,pack_min_per_unit,packaging_cost_per_unit_usd,minimum_units_if_made
+1,Triple Chocolate Layer Cake,6,50,18,8,0.6,6
+2,Victoria Sponge,8,39,11,6,0.45,8
+3,Red Velvet Cake,6,48,17,7,0.55,6
+4,Lemon Drizzle Cake,8,73,8,5,0.4,8
+5,New York Cheesecake,4,97,11,7,0.7,4
+6,Flourless Chocolate Cake,8,42,9,6,0.5,8
+7,Banana Cake,8,68,9,6,0.45,8
+8,Old-Fashioned Marble Cake,6,80,10,6,0.5,6
+9,Coconut Cake,6,46,16,8,0.55,6
+10,Coffee & Walnut Cake,8,46,14,7,0.55,8
