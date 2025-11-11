@@ -1,4 +1,4 @@
-cake_id,name,Banana,Butter,Chocolate,CocoaPowder,CoconutFlakes,CreamCheese,Dairy,Eggs_each,Flavorings,Flour,Leavening,Lemon,Sugar,VegetableOil,Walnuts
+cake_id,name,Banana,Butter,Chocolate,CocoaPowder,CoconutFlakes,CreamCheese,Dairy,Eggs,Flavorings,Flour,Leavening,Lemon,Sugar,VegetableOil,Walnuts
 1,Triple Chocolate Layer Cake,0,0,0.1,0.06,0,0,0.25,3,0,0.25,0,0,0.4,0.24,0
 2,Victoria Sponge,0,0.2,0,0,0,0,0,4,0.005,0.2,0.008,0,0.2,0,0
 3,Red Velvet Cake,0,0,0,0.02,0,0.3,0.24,3,0,0.25,0,0,0.3,0.24,0

@@ -1,0 +1,5 @@
+### Revenue
+
+#Revenue = lpSum(prices[(i,j)] * s[(i,j)] for i in cake_ids for j in markets)
+#prob += Revenue - C_ingredients - C_labor - C_utilities - C_transportation, 'Profit'
+
