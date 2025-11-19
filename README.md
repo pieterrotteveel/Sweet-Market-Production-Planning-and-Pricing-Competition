@@ -283,5 +283,3 @@ After running the notebook, you should see CSVs under `results/` such as:
 - **CSV column mismatch** -> open the data‑loading cells and align column names to your files
 
 ---
-
-*Maintainer note: if you change file names/paths or add constraints (e.g., capacity windows), update this README accordingly so others can reproduce results.*
