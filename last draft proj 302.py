@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov 22 13:31:22 2025
-
-@author: ritamariaelchaer
-"""
-
 import pandas as pd
 import numpy as np
 import pulp as pl
